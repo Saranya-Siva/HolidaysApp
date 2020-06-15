@@ -16,7 +16,7 @@ enum HolidayError : Error{
 
 struct HolidayRequest{
     var requestUrl : URL
-    var API_KEY : String = "ad6a877e78d103b9e39933918a9ca649d665e0af"
+    var API_KEY : String = Constants.API_KEY
     
     init(countryCode : String){
         let date  = Date()

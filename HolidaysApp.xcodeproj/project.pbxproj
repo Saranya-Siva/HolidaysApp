@@ -15,6 +15,7 @@
 		EEBAB7DE247F45AE004E58DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEBAB7DC247F45AE004E58DC /* LaunchScreen.storyboard */; };
 		EEBAB7E6247F4FC8004E58DC /* Holidays.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBAB7E5247F4FC8004E58DC /* Holidays.swift */; };
 		EEBAB7E8247F517F004E58DC /* HolidayRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBAB7E7247F517E004E58DC /* HolidayRequest.swift */; };
+		EEE810FC24982C4C004B2431 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE810FB24982C4C004B2431 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		EEBAB7DF247F45AE004E58DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EEBAB7E5247F4FC8004E58DC /* Holidays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Holidays.swift; sourceTree = "<group>"; };
 		EEBAB7E7247F517E004E58DC /* HolidayRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolidayRequest.swift; sourceTree = "<group>"; };
+		EEE810FB24982C4C004B2431 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				EEBAB7DF247F45AE004E58DC /* Info.plist */,
 				EEBAB7E5247F4FC8004E58DC /* Holidays.swift */,
 				EEBAB7E7247F517E004E58DC /* HolidayRequest.swift */,
+				EEE810FB24982C4C004B2431 /* Constants.swift */,
 			);
 			path = HolidaysApp;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				EEBAB7D2247F459A004E58DC /* AppDelegate.swift in Sources */,
 				EEBAB7E6247F4FC8004E58DC /* Holidays.swift in Sources */,
 				EEBAB7D4247F459A004E58DC /* SceneDelegate.swift in Sources */,
+				EEE810FC24982C4C004B2431 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
